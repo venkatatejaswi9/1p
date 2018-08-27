@@ -1,0 +1,8 @@
+a=input()
+if(a!=int):
+    print("invalid")
+elif(a%2==0):  
+    print(" Even")  
+else:  
+    print("Odd") 
+
