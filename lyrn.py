@@ -1,5 +1,8 @@
-a=input()
-if(a%4==0):  
+
+year=input()
+if(year%4==0):  
     print("yes")  
 else:  
     print("no") 
+
+
