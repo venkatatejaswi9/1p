@@ -1,2 +1,4 @@
-for i in range(0,N):
+n=input()
+for i in range(n):
     print("Hello")
+
