@@ -1,6 +1,6 @@
-v=input()
+s=input()
 i=input()
-k=v*i
+k=s*i
 if((k%2)==0):
      print("even")
 else:
