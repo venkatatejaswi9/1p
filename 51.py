@@ -1,3 +1,3 @@
-a=raw_input()
-for i in a:
+b=raw_input()
+for i in b:
   print i,
