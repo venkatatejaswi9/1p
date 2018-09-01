@@ -1,2 +1,2 @@
-a,b = raw_input().split()
-print a+b
+b,c = raw_input().split()
+print b+c
