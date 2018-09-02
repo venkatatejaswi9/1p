@@ -1,0 +1,12 @@
+N=int(input())
+M=int(input())
+if(N>M):
+  p=N
+else:
+  p=M
+while(True):
+  if((p%N==0)and(p%M==0)):
+    lcm=p
+    break
+  p+=1
+print(p)
