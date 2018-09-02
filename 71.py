@@ -1,6 +1,6 @@
-s=raw_input()
-result=s[::-1]
-if(result==s):
+r=raw_input()
+result=r[::-1]
+if(result==r):
     print("yes")
 else:
     print("no")
