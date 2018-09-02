@@ -1,3 +1,3 @@
-char=raw_input()
-lowercase=char.lower()
-print lowercase
+string=raw_input()
+uppercase=string.upper()
+print uppercase
