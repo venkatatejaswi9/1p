@@ -1,2 +1,2 @@
-S=raw_input("")
-print S
+r=raw_input("")
+print r
