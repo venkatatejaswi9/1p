@@ -1,4 +1,4 @@
-n=int(input())
-m=int(input())
-ans=n**m
+a=int(input())
+b=int(input())
+ans=a**b
 print(ans)
