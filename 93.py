@@ -1,3 +1,3 @@
-temp=int(input())
-cel=temp+273
+temperature=int(input())
+cel=temperature+273
 print(cel)
