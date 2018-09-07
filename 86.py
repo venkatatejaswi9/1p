@@ -7,7 +7,7 @@ for i in range(0,n):
       p=p=1
       break
 if(p==0):
-  print"yes"
+  print"Yes"
 else:
-  print"no"
+  print"No"
   
