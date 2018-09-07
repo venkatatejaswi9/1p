@@ -1,8 +1,8 @@
-a=raw_input()
-b=['a','e','i','o','u','A','E','I','O','U']
+m=raw_input()
+n=['a','e','i','o','u','A','E','I','O','U']
 flag=0
-for i in a:
-	if i in b:
+for i in m:
+	if i in n:
 		flag=1
 	else:
 		flag=0
